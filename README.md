@@ -18,8 +18,7 @@ Azure Data Factory is employed to schedule and monitor the entire pipeline, ensu
 #### Delta Lakehouse Architecture:
 As part of the project's evolution, we transition the pipeline into the Delta Lakehouse architecture. This adaptation addresses specific needs related to GDPR compliance, time-travel capabilities, and other essential requirements.
 ## Results
-
-![image](https://github.com/user-attachments/assets/cfd99bf7-4c9f-472d-8af6-28f372f91c65)
+![image](https://github.com/user-attachments/assets/8e815b2b-a0b0-4860-b5e7-482c9d1c4bef)
 
 ![image](https://github.com/user-attachments/assets/c7987773-ee25-4d0d-a0df-5c381d38ba86)
 

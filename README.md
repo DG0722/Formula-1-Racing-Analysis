@@ -4,9 +4,9 @@ designing and orchestrating a data pipeline using Databricks and Azure to effici
 ## Data Source
 [Ergast Developer API](http://ergast.com/mrd/)
 ## ERD Diagram
-![image](https://github.com/jdenggao/Databricks-Spark-Data-Pipeline/assets/112433825/f7dedb49-52d0-4716-acc7-68a87f38e910)
+![image](https://github.com/user-attachments/assets/e04f87d2-f749-4a36-a9ce-339ed408a10c)
 ## Pipeline Architecture
-![image](https://github.com/jdenggao/Databricks-Spark-Data-Pipeline/assets/112433825/ae6ba2f4-c99f-4198-9035-43b04a15bb11)
+![image](https://github.com/user-attachments/assets/1feab16d-dabb-4be1-b51e-6812ab32d33f)
 #### Data Raw Layer：
 Data from the Ergest Developer API is initially imported into a raw Azure Data Lake Storage (ADLS) container.
 #### Data Ingest Layer:
@@ -19,6 +19,7 @@ Azure Data Factory is employed to schedule and monitor the entire pipeline, ensu
 As part of the project's evolution, we transition the pipeline into the Delta Lakehouse architecture. This adaptation addresses specific needs related to GDPR compliance, time-travel capabilities, and other essential requirements.
 ## Results
 
-![image](https://github.com/jdenggao/Databricks-Spark-Data-Pipeline/assets/112433825/6a652558-8533-4b9d-9db2-57afdb359802)
+![image](https://github.com/user-attachments/assets/cfd99bf7-4c9f-472d-8af6-28f372f91c65)
 
-![image](https://github.com/jdenggao/Databricks-Spark-Data-Pipeline/assets/112433825/0732a590-c703-4c95-9579-b29ee783252f)
+![image](https://github.com/user-attachments/assets/c7987773-ee25-4d0d-a0df-5c381d38ba86)
+
